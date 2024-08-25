@@ -11,7 +11,7 @@ campo B
 
 4) Exiba uma mensagem positiva para o usuário quando o formulário for válido e uma mensagem negativa quando for inválido.
 
-5) Suba no Github no repositório do curso em uma branch chamada exercicio_html_js.
+5) Suba no Github no repositório do curso em uma branch chamada git branch -m master exercicio_html_js
 
 6) Copie o link do repositório na plataforma da EBAC que a equipe de tutoria dará o feedback.
 
